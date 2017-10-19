@@ -1,6 +1,7 @@
 # Bootstrap-Login-and-Registration
+These are the login and registration design with bootstrap.
 
-Pictures
+## Pictures
 
-<a href="https://postimg.org/image/ekjkb007f/" target="_blank"><img src="https://s25.postimg.org/jj72pj40f/giris.png" alt="giris"/></a><br/><br/>
-<a href="https://postimg.org/image/3kyczep7v/" target="_blank"><img src="https://s25.postimg.org/3kyczep7z/kayit.png" alt="kayit"/></a><br/><br/>
+![giris](https://user-images.githubusercontent.com/12279132/31765807-52a96320-b4ce-11e7-8254-df08e7b9130b.png)
+![kayit](https://user-images.githubusercontent.com/12279132/31765808-5303560a-b4ce-11e7-98d6-bd41595e74b9.png)
